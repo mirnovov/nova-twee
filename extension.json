@@ -1,0 +1,13 @@
+{
+    "identifier": "novov.twee",
+    "name": "Twee",
+    "organization": "novov",
+    "description": "Adds syntax highlighting for the Twee interactive fiction format.",
+    "version": "0.1",
+    "categories": ["languages"],
+    "bugs": "https://github.com/mirnovov/nova-twee/issues",
+    "repository": "https://github.com/mirnovov/nova-twee",
+    "license": "MIT",
+    
+    "min_runtime": "10.0"
+}

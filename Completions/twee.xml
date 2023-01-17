@@ -1,0 +1,8 @@
+<completions>
+	<provider name="twee.names">
+		<syntax>twee</syntax>
+		<query>(dest)</query>
+		<trigger>&lt; </trigger>
+		<symbols type="property" />
+	</provider>
+</completions>
